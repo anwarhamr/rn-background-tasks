@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0"
+  },
+  "name": "background_tasks",
+  "displayName": "Background task play"
+}

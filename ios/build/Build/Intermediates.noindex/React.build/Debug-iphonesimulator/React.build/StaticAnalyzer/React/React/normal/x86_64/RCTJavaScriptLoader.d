@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTPerformanceLogger.h

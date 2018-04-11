@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/roblingstuyl/_sandbox/rn-background-task-play/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.0_52d8c4389e3ee5cd424e94b7153bc867017a84da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_58c8df5f19cfa51e4fe30f809ec8110c95b2ff6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_982d28d83c563418370ade688cab238c885f58c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b91b1f5a53c2f04e10640ed757022bc22f01bfed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ceb496f0e28ffb89222d1361e7ad8fd006785680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7023228034fcf96c1b703b591022d79a71e7ee41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1cfe6feac91d78734fdd551a9283c4b1099f0787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_2e0e8b12da390d9a321f0219b07cf1f7d8daf891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_43baae9c2c767c6a4ef52f6fa19e44e4c5fe2e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_56603e7d7512be36257cf3b40e12be983b24a4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a603d6a607bb5a3360200c407c1e2e2ad217b03a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_63a107b477f4fabea8998e9a9e57e930f5e9359e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_030fbbdf9244d75d76705f437a70f31c118a5cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_780f187c6d9e27a2bf7df99b9a38bd0b75863a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d3b1cbebb5f29f4de663c83180571c53747f2489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ba91baa9b0ebf94e09959441ef98c1d97df1b82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_31aced486cf7acf90217701398f08d8dbf29b2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ea24782620bda6b2623549f042f964024dc5380f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ffef5574b34e5dc98ca2a43f8623109703d21548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e84b69a5afdde2a38b4085c537eef78d956e867d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/roblingstuyl/_sandbox/rn-background-task-play/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_80b0824d3f5decad1eeaa01f1c5bcdbc32ff265e.jar" />
+    </item>
+
+</items>
